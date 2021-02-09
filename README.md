@@ -2,7 +2,7 @@
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 
-[![All Contributors](https://img.shields.io/badge/all_contributors-232-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-252-orange.svg?style=flat-square)](#contributors-)
 
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
@@ -10,61 +10,64 @@
 
 ### Table of Contents
 
-| Linkedin-quiz-questions                                                      |                 | Status                         |
-| ---------------------------------------------------------------------------- | --------------- | ------------------------------ |
-| [Adobe-Illustrator](adobe-illustrator/adobe-illustrator-quiz.md)             | => 51 questions | answers required               |
-| [Adobe-Photoshop](adobe-photoshop/adobe-photoshop-quiz.md)                   | => 36 questions | answers required               |
-| [Agile Methodologies](agile-methodologies/agile-methodologies-quiz.md)       | => 76 questions | with answers                   |
-| [Android](android/android-quiz.md)                                           | => 44 questions | answers required               |
-| [AngularJs](angularjs/angularjs-quiz.md)                                     | => 15 questions | answers required               |
-| [AWS](aws/aws-quiz.md)                                                       | => 28 questions | answers required               |
-| [AWS-Lambda](aws-lambda/aws-lambda-quiz.md) :fire:                           | => 44 questions | with answers                   |
-| [Bash](bash/bash-quiz.md)                                                    | => 53 questions | partially answered             |
-| [C#](c%23/c-sharp-quiz.md)                                                   | => 48 questions | answers required               |
-| [C++](c%2B%2B/c%2B%2Bquiz.md)                                                | => 33 questions | with answers                   |
-| [C (Programming Language)](<c-(programming-language)/c-quiz.md>)             | => 25 questions | with answers                   |
-| [CSS](css/css-quiz.md)                                                       | => 54 questions | with answers                   |
-| [Django](django/django-quiz.md)                                              | => 48 questions | with answers                   |
-| [.NET Framework](dotnet-framework/dotnet-framework-quiz.md)                  | => 37 questions | partially answered             |
-| [Git](git/git-quiz.md) :star:                                                | => 90 questions | with answers                   |
-| [Google Analytics](google-analytics/google-analytics-quiz.md)                | => 65 questions | answers required               |
-| [Google Cloud Platform (GCP)](google-cloud-platform/gcp-quiz.md)             | => 27 questions | with answers                   |
-| [Hadoop](hadoop/hadoop-quiz.md)                                              | => 18 questions | answers required               |
-| [HTML](html/html-quiz.md)                                                    | => 61 questions | with answers                   |
-| [Java](java/java-quiz.md)                                                    | => 64 questions | with answers                   |
-| [Javascript](javascript/javascript-quiz.md)                                  | => 65 questions | partially answered             |
-| [jQuery](jquery/jquery-quiz.md) :open_mouth:                                 | => 50 questions | with answers                   |
-| [JSON](json/json-quiz.md)                                                    | => 51 questions | with answers                   |
-| [Machine Learning](machine-learning/machine-learning-quiz.md)                | => 67 questions | answers required               |
-| Kotlin                                                                       | => 0 questions  | NO question and NO answers yet |
-| [MATLAB](matlab/matlab-quiz.md)                                              | => 45 questions | with answers                   |
-| [Maven](maven/maven-quiz.md) :fire:                                          | => 34 questions | with answers                   |
-| [Microsoft Azure](microsoft-azure/microsoft-azure-quiz.md)                   | => 44 questions | with answers                   |
-| [Microsoft Excel](microsoft-excel/microsoft-excel-quiz.md)                   | => 48 questions | with answers                   |
-| [Microsoft Power BI](microsoft-power-bi/microsoft-power-bi-quiz.md)          | => 26 questions | answers required               |
-| [Microsoft Power Point](microsoft-power-point/microsoft-power-point-quiz.md) | => 21 questions | partially answered             |
-| [Microsoft Project](microsoft-project/microsoft-project-quiz.md)             | => 41 questions | answers required               |
-| [Microsoft Word](microsoft-word/microsoft-word-quiz.md)                      | => 42 questions | with answers                   |
-| [MongoDB](mongodb/mongodb-quiz.md)                                           | => 46 questions | with answers                   |
-| [MySQL](mysql/mysql-quiz.md)                                                 | => 64 questions | answers required               |
-| [node.js](node.js/node.js-quiz.md)                                           | => 40 questions | with answers                   |
-| [NoSQL](nosql/nosql-quiz.md)                                                 | => 43 questions | with answers                   |
-| [objective-c](objective-c/objective-c-quiz.md)                               | => 33 questions | partially answered             |
-| [OOP](oop/object-oriented-programming-quiz.md)                               | => 50 questions | with answers                   |
-| [PHP](php/php-quiz.md)                                                       | => 29 questions | partially answered             |
-| [Python](python/python-quiz.md)                                              | => 67 questions | with answers                   |
-| [R](r/r-quiz.md)                                                             | => 29 questions | partially answered             |
-| [React.js](react/reactjs-quiz.md) :rose:                                     | => 51 questions | with answers                   |
-| [REST API](rest-api/rest-api-quiz.md) :+1:                                   | => 34 questions | partially answered             |
-| [Scala](scala/scala-quiz.md)                                                 | => 25 questions | answers required               |
-| [Search Engine Optimization (SEO)](seo/search-engine-optimization-quiz.md)   | => 30 questions | partially answered             |
-| [SharePoint](sharepoint/sharepoint-quiz.md)                                  | => 29 questions | with answers                   |
-| [Swift](swift/swift-quiz.md)                                                 | => 48 questions | with answers                   |
-| [Transact-SQL (T-SQL)](t-sql/t-sql-quiz.md)                                  | => 28 questions | with answers                   |
-| [Visual Basic for Applications (VBA)](vba/vba-quiz.md)                       | => 11 questions | answers required               |
-| [Windows Server](windows-server/windows-server-quiz.md)                      | => 46 questions | partially answered             |
-| [WordPress](wordpress/wordpress-quiz.md)                                     | => 42 questions | partially answered             |
-| [XML](xml/xml-quiz.md)                                                       | => 21 questions | answers required               |
+| Linkedin-quiz-questions                                                      |                 | Status        |Your resource for answers. In case you have doubts please contact this person or add him to review your PR. |
+| ---------------------------------------------------------------------------- | --------------- | ------------- |------------- |
+| [Adobe-Illustrator](adobe-illustrator/adobe-illustrator-quiz.md)             | => 51 questions | => 0 answers  | |
+| [Adobe-Photoshop](adobe-photoshop/adobe-photoshop-quiz.md)                   | => 36 questions | => 36 answers | |
+| [Agile Methodologies](agile-methodologies/agile-methodologies-quiz.md)       | => 76 questions | => 76 answers | |
+| [Android](android/android-quiz.md)                                           | => 44 questions | => 40 answers | |
+| [AngularJs](angularjs/angularjs-quiz.md)                                     | => 15 questions | => 2 answers  | |
+| [AWS](aws/aws-quiz.md)                                                       | => 28 questions | => 26 answers | |
+| [AWS-Lambda](aws-lambda/aws-lambda-quiz.md) :fire:                           | => 44 questions | => 44 answers | |
+| [Bash](bash/bash-quiz.md)                                                    | => 53 questions | => 53 answers | |
+| [C#](c%23/c-sharp-quiz.md)                                                   | => 48 questions | => 47 answers | |
+| [C++](c%2B%2B/c%2B%2Bquiz.md)                                                | => 33 questions | => 26 answers | |
+| [C (Programming Language)](<c-(programming-language)/c-quiz.md>)             | => 25 questions | => 25 answers | |
+| [CSS](css/css-quiz.md)                                                       | => 54 questions | => 77 answers | |
+| [Django](django/django-quiz.md)                                              | => 48 questions | => 48 answers | |
+| [.NET Framework](dotnet-framework/dotnet-framework-quiz.md)                  | => 37 questions | => 34 answers | |
+| [Git](git/git-quiz.md) :star:                                                | => 92 questions | => 92 answers | |
+| [Google Analytics](google-analytics/google-analytics-quiz.md)                | => 65 questions | => 45 answers | |
+| [Google Cloud Platform (GCP)](google-cloud-platform/gcp-quiz.md)             | => 27 questions | => 27 answers | |
+| [Hadoop](hadoop/hadoop-quiz.md)                                              | => 18 questions | => 18 answers | [@harman052](https://github.com/harman052) |
+| [HTML](html/html-quiz.md)                                                    | => 62 questions | => 62 answers | |
+| [Java](java/java-quiz.md)                                                    | => 65 questions | => 65 answers | |
+| [Javascript](javascript/javascript-quiz.md)                                  | => 70 questions | => 70 answers | [@harman052](https://github.com/harman052)|
+| [jQuery](jquery/jquery-quiz.md) :open_mouth:                                 | => 50 questions | => 50 answers | |
+| [JSON](json/json-quiz.md)                                                    | => 51 questions | => 51 answers | |
+| [Kotlin](kotlin/kotlin-quiz.md)                                              | => 30 questions | => 0 answers  | |
+| [Linux](linux/linux-assesment.md)                                            | => 34 questions | => 30 answers | |
+| [Machine Learning](machine-learning/machine-learning-quiz.md)                | => 70 questions | => 70 answers | |
+| [MATLAB](matlab/matlab-quiz.md)                                              | => 45 questions | => 45 answers | |
+| [Maven](maven/maven-quiz.md) :fire:                                          | => 35 questions | => 35 answers | |
+| [Microsoft Azure](microsoft-azure/microsoft-azure-quiz.md)                   | => 44 questions | => 45 answers | |
+| [Microsoft Excel](microsoft-excel/microsoft-excel-quiz.md)                   | => 52 questions | => 52 answers | |
+| [Microsoft Outlook](microsoft-outlook/microsoft-outlook-quiz.md)             | => 12 questions | => 0 answers  | |
+| [Microsoft Power BI](microsoft-power-bi/microsoft-power-bi-quiz.md)          | => 26 questions | => 23 answers | |
+| [Microsoft Power Point](microsoft-power-point/microsoft-power-point-quiz.md) | => 38 questions | => 38 answers | |
+| [Microsoft Project](microsoft-project/microsoft-project-quiz.md)             | => 41 questions | => 41 answers | |
+| [Microsoft Word](microsoft-word/microsoft-word-quiz.md)                      | => 54 questions | => 52 answers | |
+| [MongoDB](mongodb/mongodb-quiz.md)                                           | => 54 questions | => 54 answers | |
+| [MySQL](mysql/mysql-quiz.md)                                                 | => 68 questions | => 68 answers | |
+| [node.js](node.js/node.js-quiz.md)                                           | => 41 questions | => 41 answers |[@harman052](https://github.com/harman052) |
+| [NoSQL](nosql/nosql-quiz.md)                                                 | => 43 questions | => 43 answers | |
+| [objective-c](objective-c/objective-c-quiz.md)                               | => 33 questions | => 31 answers | |
+| [OOP](oop/object-oriented-programming-quiz.md)                               | => 51 questions | => 51 answers | |
+| [PHP](php/php-quiz.md)                                                       | => 34 questions | => 34 answers | |
+| [Python](python/python-quiz.md)                                              | => 67 questions | => 67 answers | [@tik9](https://github.com/tik9)|
+| [R](r/r-quiz.md)                                                             | => 29 questions | => 29 answers | |
+| [React.js](react/reactjs-quiz.md) :rose:                                     | => 52 questions | => 52 answers | [@harman052](https://github.com/harman052) |
+| [REST API](rest-api/rest-api-quiz.md) :+1:                                   | => 34 questions | => 34 answers | |
+| [Rubi on Rails](ruby-on-rails/ruby-on-rails-quiz.md) :+1:                    | => 24 questions | => 4 answers  | |
+| [Scala](scala/scala-quiz.md)                                                 | => 25 questions | => 25 answers | |
+| [Search Engine Optimization (SEO)](seo/search-engine-optimization-quiz.md)   | => 29 questions | => 28 answers | |
+| [SharePoint](sharepoint/sharepoint-quiz.md)                                  | => 29 questions | => 29 answers | |
+| [Swift](swift/swift-quiz.md)                                                 | => 48 questions | => 48 answers | |
+| [Transact-SQL (T-SQL)](t-sql/t-sql-quiz.md)                                  | => 28 questions | => 28 answers | |
+| [Visual Basic for Applications (VBA)](vba/vba-quiz.md)                       | => 11 questions | => 0 answers  | |
+| [Windows Server](windows-server/windows-server-quiz.md)                      | => 46 questions | => 44 answers | |
+| [WordPress](wordpress/wordpress-quiz.md)                                     | => 42 questions | => 39 answers | |
+| [XML](xml/xml-quiz.md)                                                       | => 21 questions | => 19 answers | |
 
 :point_right: If you want to improve your skills on another test platform [**Pluralsight IQ Skill**](https://www.pluralsight.com/product/skill-iq)
 find **questions and answers** in **@Timo Körner** [repository](https://github.com/tik9/pluralsight-skill-test):
@@ -90,7 +93,6 @@ find **questions and answers** in **@Timo Körner** [repository](https://github.
 | [Python Data Visualization](https://github.com/tik9/pluralsight-skill-tests/blob/master/python_data_visualization.md)               | 18 answers |
 
 <img src="https://monosnap.com/image/mf3OkeABEfjiAFjYC8d0l7cE6yf52E"/>
-
 
 ## Format
 
@@ -311,7 +313,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="http://taylordorsett.com"><img src="https://avatars3.githubusercontent.com/u/16449771?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Taylor Dorsett</b></sub></a><br /><a href="https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes/commits?author=TaylorOD" title="Code">💻</a> <a href="#content-TaylorOD" title="Content">🖋</a> <a href="#design-TaylorOD" title="Design">🎨</a></td>
     <td align="center"><a href="http://blog.havit.web.id/"><img src="https://avatars3.githubusercontent.com/u/17120764?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Havit Rovik</b></sub></a><br /><a href="https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes/commits?author=haruelrovix" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/pushpapune"><img src="https://avatars1.githubusercontent.com/u/73734199?v=4?s=100" width="100px;" alt=""/><br /><sub><b>pushpapune</b></sub></a><br /><a href="https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes/commits?author=pushpapune" title="Code">💻</a> <a href="#design-pushpapune" title="Design">🎨</a></td>
-    <td align="center"><a href="https://github.com/rradfar"><img src="https://avatars3.githubusercontent.com/u/31255934?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Ramtin Radfar</b></sub></a><br /><a href="#design-rradfar" title="Design">🎨</a> <a href="#ideas-rradfar" title="Ideas, Planning, & Feedback">🤔</a> <a href="#business-rradfar" title="Business development">💼</a> <a href="#financial-rradfar" title="Financial">💵</a></td>
+    <td align="center"><a href="https://github.com/rradfar"><img src="https://avatars3.githubusercontent.com/u/31255934?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Ramtin Radfar</b></sub></a><br /><a href="#design-rradfar" title="Design">🎨</a> <a href="#ideas-rradfar" title="Ideas, Planning, & Feedback">🤔</a> <a href="#business-rradfar" title="Business development">💼</a> <a href="#financial-rradfar" title="Financial">💵</a> <a href="https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes/commits?author=rradfar" title="Code">💻</a></td>
     <td align="center"><a href="http://www.abdulmajeedisa.com"><img src="https://avatars0.githubusercontent.com/u/44467524?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Abdulmajeed Isa</b></sub></a><br /><a href="https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes/commits?author=amajai" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/vikassaxena02"><img src="https://avatars2.githubusercontent.com/u/25317029?v=4?s=100" width="100px;" alt=""/><br /><sub><b>vikassaxena02</b></sub></a><br /><a href="#design-vikassaxena02" title="Design">🎨</a></td>
     <td align="center"><a href="https://github.com/RobTables"><img src="https://avatars3.githubusercontent.com/u/52382103?v=4?s=100" width="100px;" alt=""/><br /><sub><b>RobTables</b></sub></a><br /><a href="#design-RobTables" title="Design">🎨</a> <a href="https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes/commits?author=RobTables" title="Code">💻</a> <a href="#business-RobTables" title="Business development">💼</a></td>
@@ -408,6 +410,30 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
   </tr>
   <tr>
     <td align="center"><a href="https://medium.com/@manueldepaz"><img src="https://avatars.githubusercontent.com/u/2047107?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Manuel Eusebio de Paz Carmona</b></sub></a><br /><a href="#design-Pelirrojo" title="Design">🎨</a></td>
+    <td align="center"><a href="https://github.com/Basim108"><img src="https://avatars.githubusercontent.com/u/11601933?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Basim Al-Jawahery</b></sub></a><br /><a href="#design-Basim108" title="Design">🎨</a> <a href="https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes/commits?author=Basim108" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/AhmedRaja1"><img src="https://avatars.githubusercontent.com/u/52793181?v=4?s=100" width="100px;" alt=""/><br /><sub><b>RAJA AHMED</b></sub></a><br /><a href="#design-AhmedRaja1" title="Design">🎨</a> <a href="https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes/commits?author=AhmedRaja1" title="Code">💻</a></td>
+    <td align="center"><a href="http://bloggercls8e.appspot.com/"><img src="https://avatars.githubusercontent.com/u/8018018?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Abhik Lodh</b></sub></a><br /><a href="https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes/commits?author=abhiklodh" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/mdPial"><img src="https://avatars.githubusercontent.com/u/43095489?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Md. Pial Ahamed</b></sub></a><br /><a href="https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes/commits?author=mdPial" title="Code">💻</a> <a href="#design-mdPial" title="Design">🎨</a></td>
+    <td align="center"><a href="https://hassanshahzad.urspace.io/"><img src="https://avatars.githubusercontent.com/u/37936447?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Hassan Shahzad</b></sub></a><br /><a href="https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes/commits?author=HassanShahzad7" title="Code">💻</a> <a href="#design-HassanShahzad7" title="Design">🎨</a></td>
+    <td align="center"><a href="https://github.com/christiansgesp"><img src="https://avatars.githubusercontent.com/u/43465304?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Christian Sosa Gago</b></sub></a><br /><a href="https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes/commits?author=christiansgesp" title="Code">💻</a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/HrHasnai"><img src="https://avatars.githubusercontent.com/u/60227425?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Hasnain Rasheed</b></sub></a><br /><a href="https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes/commits?author=HrHasnai" title="Code">💻</a> <a href="#design-HrHasnai" title="Design">🎨</a></td>
+    <td align="center"><a href="https://github.com/T-Radford"><img src="https://avatars.githubusercontent.com/u/46270573?v=4?s=100" width="100px;" alt=""/><br /><sub><b>T-Radford</b></sub></a><br /><a href="https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes/commits?author=T-Radford" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/dahiyashish"><img src="https://avatars.githubusercontent.com/u/38746838?v=4?s=100" width="100px;" alt=""/><br /><sub><b>dahiyashish</b></sub></a><br /><a href="https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes/commits?author=dahiyashish" title="Code">💻</a> <a href="#design-dahiyashish" title="Design">🎨</a></td>
+    <td align="center"><a href="https://github.com/Rahulsharma468"><img src="https://avatars.githubusercontent.com/u/52377774?v=4?s=100" width="100px;" alt=""/><br /><sub><b>RahulSharma468</b></sub></a><br /><a href="https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes/commits?author=Rahulsharma468" title="Code">💻</a> <a href="#design-Rahulsharma468" title="Design">🎨</a></td>
+    <td align="center"><a href="https://www.facebook.com/Muangthai.sriracha"><img src="https://avatars.githubusercontent.com/u/13193747?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Jumpod Plekhongthu</b></sub></a><br /><a href="https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes/commits?author=Pjumpod" title="Code">💻</a> <a href="#design-Pjumpod" title="Design">🎨</a></td>
+    <td align="center"><a href="https://github.com/thomasyoung-audet"><img src="https://avatars.githubusercontent.com/u/8418461?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Thomas Young-Audet</b></sub></a><br /><a href="https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes/commits?author=thomasyoung-audet" title="Code">💻</a> <a href="#design-thomasyoung-audet" title="Design">🎨</a></td>
+    <td align="center"><a href="https://github.com/VinayagamBabu"><img src="https://avatars.githubusercontent.com/u/78416322?v=4?s=100" width="100px;" alt=""/><br /><sub><b>VinayagamBabu</b></sub></a><br /><a href="https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes/commits?author=VinayagamBabu" title="Code">💻</a> <a href="#design-VinayagamBabu" title="Design">🎨</a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://www.linkedin.com/in/deniz-ko%C3%A7-780090104/"><img src="https://avatars.githubusercontent.com/u/74410580?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Deniz Koç</b></sub></a><br /><a href="https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes/commits?author=kocdeniz" title="Code">💻</a> <a href="#design-kocdeniz" title="Design">🎨</a></td>
+    <td align="center"><a href="https://www.azhark.com"><img src="https://avatars.githubusercontent.com/u/20738252?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Azhar Khan</b></sub></a><br /><a href="https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes/commits?author=adminazhar" title="Code">💻</a> <a href="#design-adminazhar" title="Design">🎨</a> <a href="#content-adminazhar" title="Content">🖋</a> <a href="https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes/commits?author=adminazhar" title="Documentation">📖</a> <a href="#data-adminazhar" title="Data">🔣</a> <a href="#maintenance-adminazhar" title="Maintenance">🚧</a></td>
+    <td align="center"><a href="http://www.jacobryanshort.com"><img src="https://avatars.githubusercontent.com/u/46907893?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Jacob Short</b></sub></a><br /><a href="https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes/commits?author=jrshort89" title="Code">💻</a> <a href="#design-jrshort89" title="Design">🎨</a></td>
+    <td align="center"><a href="https://github.com/Uchimura85"><img src="https://avatars.githubusercontent.com/u/29099918?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Uchimura85</b></sub></a><br /><a href="https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes/commits?author=Uchimura85" title="Code">💻</a> <a href="#design-Uchimura85" title="Design">🎨</a></td>
+    <td align="center"><a href="https://github.com/lnugraha"><img src="https://avatars.githubusercontent.com/u/32232486?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Leo Nugraha</b></sub></a><br /><a href="https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes/commits?author=lnugraha" title="Code">💻</a> <a href="#design-lnugraha" title="Design">🎨</a></td>
+    <td align="center"><a href="https://www.linkedin.com/in/mujtabamehdi9/"><img src="https://avatars.githubusercontent.com/u/14287838?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Mujtaba Mehdi</b></sub></a><br /><a href="https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes/commits?author=mujjazi" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://github.com/Jim-ds"><img src="https://avatars.githubusercontent.com/u/63148414?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Jim-ds</b></sub></a><br /><a href="https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes/commits?author=Jim-ds" title="Code">💻</a></td>
   </tr>
 </table>
 

@@ -221,7 +221,7 @@ dessert.type = 'pudding';
 - [ ] \++
 - [ ] \--
 - [ ] \==
-- [x] ||
+- [x] \|\|
 
 #### Q26. Which statement sets the Person constructor as the parent of the Student constructor in the prototype chain?
 - [ ] Student.parent = Person;
@@ -592,3 +592,8 @@ console.log(a.length);
 - [ ] SyntaxError
 - [ ] LogicError
 
+### Q70. Which method is called automatically when an object is initialized?
+- [ ] create()
+- [ ] new()
+- [x] constructor()
+- [ ] init()

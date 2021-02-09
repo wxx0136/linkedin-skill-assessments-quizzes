@@ -90,7 +90,7 @@
 - [x] INDEX
 - [ ] MATCH
 
-#### Q16. You're working with columsn whose width and font-size should not be changed. Yet the columns are too narrow to display all the text in each cell. What tool should you use to solve the problem?
+#### Q16. You're working with columns whose width and font-size should not be changed. Yet the columns are too narrow to display all the text in each cell. What tool should you use to solve the problem?
 - [ ] Sparklines
 - [x] Wrap Text
 - [ ] Fill Handle
@@ -104,23 +104,24 @@
 
 #### Q18. The AutoSum formulas in the range C9:F9 below return unexpected values. Why is this?
 - [ ] The AutoSum formulas refer to the column to the left of their cells.
-- [x] The AutoSum formulas exclude the bottom row of data.
-- [ ] The AutoSum formulas include the year at the top of each column in the calculation.
+- [ ] The AutoSum formulas exclude the bottom row of data.
+- [x] The AutoSum formulas include the year at the top of each column in the calculation.
+`The formula bar clearly shows it's the dates (top row) included, along with the total (bottom) row. Thus, the bottom row of data is not excluded.`
 - [ ] The AutoSum formulas include their own cells, creating a circular reference.
 
 #### Q19. The text filter in column A is designed to display only those rows where column A entry has a particular attribute. What is this attribute?
 - [x] The second character in the cell is 9.
 - [ ] The number 9 appears one or more times within the cell.
 - [ ] The cell is comprised of 9 characters.
-- [ ] the number 9 apperars once and only once within the cell.
+- [ ] The number 9 appears once and only once within the cell.
 
-#### Q20. To ensure shapres and other objects are an equal left-to-right distance apart, select the shapes, click Page Layout > Align, and the click \_\_\_\_.
-- [ ] Aligh Middle
+#### Q20. To ensure shapes and other objects are an equal left-to-right distance apart, select the shapes, click Page Layout > Align, and then click \_\_\_\_.
+- [ ] Align Middle
 - [ ] Distribute Horizontally
 - [x] Distribute Vertically
 - [ ] Align Center
 
-#### Q21. An organization chart, which shows the hierarchy within a compmay or oraginization, is available as **\_** that is include with Excel.
+#### Q21. An organization chart, which shows the hierarchy within a company or orgainization, is available as **\_** that is included with Excel.
 - [ ] a 3D model
 - [x] SmartArt
 - [ ] a Treemap chart
@@ -144,7 +145,7 @@
 - [ ] =LARGE(H2:H30,29)
 - [ ] =UPPER(H2:H30,1)
 
-#### Q25. Which chart type can display two different data series as different series type within the same chart?
+#### Q25. Which chart type can display two different data series as a different series type within the same chart?
 - [x] XY chart
 - [ ] clustered column
 - [ ] bubble chart
@@ -302,3 +303,15 @@
 - [ ] A heavy border appears around the range that is occupied by the array formula.
 - [x] In the formula bar, an array formula appears surrounded by curly brackets.
 - [ ] When a cell that contains an array formula is selected, range finders appear on the worksheet around the formula's precedent cells.
+
+#### Q51. In a worksheet, column A contains employee last names, column B contains their middle initials (if any), and column C contains their first names. Which tool can combine the last names, initials, and first names in column D without using a worksheet formula?
+- [ ] Concatenation
+- [ ] Columns to Text
+- [ ] Flash Fill
+- [ ] AutoFill
+
+#### Q52. Which formula returns the  value in cell A10 of the worksheet named Budget Variances? 
+- [ ] ='Budget Variances'!A10
+- [ ] ='Budget Variances!A10'
+- [ ] ="BudgetVariances!A10"
+- [ ] ="BudgetVariances"!A10
